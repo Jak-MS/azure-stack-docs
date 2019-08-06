@@ -1,5 +1,5 @@
 ---
-title: Manage network resouces in Azure Stack | Microsoft Docs
+title: Manage network resources in Azure Stack | Microsoft Docs
 description: Administrators can manage network resources, including the MAC address pool and the consumption of public IP addresses in a region
 services: azure-stack
 documentationcenter: ''
